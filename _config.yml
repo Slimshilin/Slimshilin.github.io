@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "ski_image3.png"
+  avatar           : "写真2.jpg"
   name             : "Lin Shi (石林)"
   pronouns         : # example: "she/her"  
   bio              : # "Short biography for the left-hand sidebar"

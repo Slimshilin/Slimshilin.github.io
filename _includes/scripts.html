@@ -1,3 +1,12 @@
 <script src="{{ base_path }}/assets/js/main.min.js"></script>
+<script>
+  document.addEventListener('DOMContentLoaded', function () {
+    document.querySelectorAll('article.page').forEach(function (page) {
+      if (page.querySelector('.toc')) {
+        page.classList.add('has-toc');
+      }
+    });
+  });
+</script>
 
 {% include analytics.html %}

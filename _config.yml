@@ -22,17 +22,18 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "写真2.jpg"
+  # avatar           : "stanford_small.png"
   name             : "Lin Shi (石林)"
   pronouns         : # example: "she/her"  
   bio              : # "Short biography for the left-hand sidebar"
   location         : # "Earth"
-  employer         : "Dartmouth College"
+  employer         : "Cornell Tech"
   uri              : # URL
-  email            : "lin.shi.26@dartmouth.edu" 
+  email            : "ls2282@cornell.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PYsvqowAAAAJ&hl=en"
+  googlescholar    : "https://scholar.google.com/citations?user=dLwY-1YAAAAJ&hl=en"
   impactstory      : # URL
   orcid            : # "http://orcid.org/yourorcidurl"
   semantic         : # URL
@@ -57,7 +58,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "lin-shi-662588266"
+  linkedin         : "slimshilin"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username

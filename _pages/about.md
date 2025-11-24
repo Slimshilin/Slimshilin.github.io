@@ -9,7 +9,7 @@ redirect_from:
 
 ## About
 
-Hi! I am Lin Shi from Beijing, China. I am currently a Master's student in Computer Science at Cornell Tech (2025–2026). I graduated with High Honors from Dartmouth College early (2022–2025), where I double majored in Computer Science and Mathematics and was recognized as a Presidential Scholar, Neukom Scholar, and URAD Scholar.
+Hi! I am Lin Shi from Beijing, China. I am currently a Master student in Computer Science at Cornell Tech (2025–2026). I graduated with High Honors from Dartmouth College early (2022–2025), where I double majored in Computer Science and Mathematics and was recognized as a Presidential Scholar, Neukom Scholar, and URAD Scholar.
 
 I have been leading and/or participating in 10+ research projects with Stanford University, CMU, Harvard, Cornell, Dartmouth, Microsoft Research Asia, Shanghai AI Lab, Zhipu AI, etc. I am honored to work with [Professor Ludwig Schmidt](https://people.csail.mit.edu/ludwigs/) (Stanford) on [Terminal Bench](https://github.com/laude-institute/terminal-bench) (**Stanford x Laude Institute**), [Professor Soroush Vosoughi](https://faculty-directory.dartmouth.edu/soroush-vosoughi) (Dartmouth) on LLM evaluation, [Professor Paulo Carvalho](https://hcii.cmu.edu/people/paulo-carvalho) (CMU) on AI Education, and [Professor Faan Chen](https://chinaproject.harvard.edu/people/faan-chen) (Harvard) on transportation and environment research.
 

@@ -40,7 +40,7 @@ Below are some of my works tagged by theme.
     <span style="background-color: #F3E5F5; color: #7B1FA2; padding: 2px 8px; border-radius: 4px; border: 1px solid #7B1FA2; font-size: 0.85em;">Dataset Benchmark</span><br>
     <span style="color: #8B0000;"><em>Shanghai AI Lab</em></span><br>
     <em>Bowen Li*, Wenhan Wu*, Ziwei Tang*, <strong>Lin Shi*</strong>, et al.</em><br>
-    <strong style="color: #00008B;">COLING 2025</strong> | <a href="https://aclanthology.org/2025.coling-main.502/">ACL Anthology</a><br>
+    <strong style="color: #00008B;">COLING 2025 (Oral)</strong> | <a href="https://aclanthology.org/2025.coling-main.502/">ACL Anthology</a><br>
     <p style="margin-top: 10px; color: #555; margin-bottom: 0;">DevEval, a dataset and evaluation framework for assessing LLMs across software development lifecycle (software design, environment setup, implementation, unit testing, acceptance testing); released on <a href="https://github.com/open-compass/DevEval">OpenCompass</a>.</p>
   </div>
 </div>
@@ -54,7 +54,7 @@ Below are some of my works tagged by theme.
     <span style="background-color: #E8F4FD; color: #1565C0; padding: 2px 8px; border-radius: 4px; border: 1px solid #1565C0; font-size: 0.85em;">Evaluation</span><br>
     <span style="color: #8B0000;"><em>Dartmouth College</em></span><br>
     <em><strong>Lin Shi</strong>, Chiyu Ma, Wenhua Liang, Weicheng Ma, Soroush Vosoughi</em><br>
-    <strong style="color: #00008B;">AACL-IJCNLP 2025 Main</strong> | <a href="https://arxiv.org/abs/2406.07791">arXiv</a><br>
+    <strong style="color: #00008B;">AACL-IJCNLP 2025 (Oral)</strong> | <a href="https://arxiv.org/abs/2406.07791">arXiv</a><br>
     <p style="margin-top: 10px; color: #555; margin-bottom: 0;">A systematic framework for evaluating position bias of LLM judges by repetition stability, position consistency, and preference fairness; investigated key factors driving position bias.</p>
   </div>
 </div>
@@ -69,7 +69,7 @@ Below are some of my works tagged by theme.
     <span style="background-color: #FFF3E0; color: #E65100; padding: 2px 8px; border-radius: 4px; border: 1px solid #E65100; font-size: 0.85em;">Agent</span><br>
     <span style="color: #8B0000;"><em>Dartmouth College</em></span><br>
     <em>Chiyu Ma, Enpei Zhang, Yilun Zhao, Wenjun Liu, Yaning Jia, Peijun Qing, <strong>Lin Shi</strong>, et al.</em><br>
-    <strong style="color: #00008B;">EMNLP 2025 Findings</strong> | <a href="https://aclanthology.org/2025.findings-emnlp.941/">ACL Anthology</a><br>
+    <strong style="color: #00008B;">EMNLP 2025</strong> | <a href="https://aclanthology.org/2025.findings-emnlp.941/">ACL Anthology</a><br>
     <p style="margin-top: 10px; color: #555; margin-bottom: 0;">Multi-Agent-Debate exacerbates biases; LLM-as-meta-judges resist them.</p>
   </div>
 </div>

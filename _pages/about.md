@@ -52,7 +52,7 @@ Below are some of my works tagged by theme.
     <span style="background-color: #E8F4FD; color: #1565C0; padding: 2px 8px; border-radius: 4px; border: 1px solid #1565C0; font-size: 0.85em; margin-right: 5px;">Evaluation</span>
     <span style="background-color: #F3E5F5; color: #7B1FA2; padding: 2px 8px; border-radius: 4px; border: 1px solid #7B1FA2; font-size: 0.85em;">Dataset Benchmark</span><br>
     <span style="color: #8B0000;"><em>Shanghai AI Lab</em></span><br>
-    <em>Bowen Li*, Wenhan Wu*, Ziwei Tang*, <strong>Lin Shi*</strong>, et al.</em><br>
+    <em>Bowen Li*, Wenhan Wu*, Ziwei Tang*, <strong>Lin Shi*</strong>, , John Yang, Jinyang Li, Shunyu Yao, Chen Qian, Binyuan Hui, Qicheng Zhang, Zhiyin Yu, He Du, Ping Yang, Dahua Lin, Chao Peng, Kai Chen</em><br>
     <strong style="color: #00008B;">COLING 2025 (Oral)</strong> | <a href="https://aclanthology.org/2025.coling-main.502/">ACL Anthology</a><br>
     <p style="margin-top: 10px; color: #555; margin-bottom: 0;">DevEval, a dataset and evaluation framework for assessing LLMs across software development lifecycle (software design, environment setup, implementation, unit testing, acceptance testing); released on <a href="https://github.com/open-compass/DevEval">OpenCompass</a>.</p>
   </div>
@@ -66,7 +66,7 @@ Below are some of my works tagged by theme.
     <strong>Judging the Judges: A Systematic Study of Position Bias in LLM-as-a-Judge</strong><br>
     <span style="background-color: #E8F4FD; color: #1565C0; padding: 2px 8px; border-radius: 4px; border: 1px solid #1565C0; font-size: 0.85em;">Evaluation</span><br>
     <span style="color: #8B0000;"><em>Dartmouth College</em></span><br>
-    <em><strong>Lin Shi</strong>, Chiyu Ma, Wenhua Liang, Weicheng Ma, Soroush Vosoughi</em><br>
+    <em><strong>Lin Shi</strong>, Chiyu Ma, Wenhua Liang, Xingjian Diao, Weicheng Ma, Soroush Vosoughi</em><br>
     <strong style="color: #00008B;">AACL-IJCNLP 2025 (Oral)</strong> | <a href="https://arxiv.org/abs/2406.07791">arXiv</a><br>
     <p style="margin-top: 10px; color: #555; margin-bottom: 0;">A systematic framework for evaluating position bias of LLM judges by repetition stability, position consistency, and preference fairness; investigated key factors driving position bias.</p>
   </div>
@@ -81,7 +81,7 @@ Below are some of my works tagged by theme.
     <span style="background-color: #E8F4FD; color: #1565C0; padding: 2px 8px; border-radius: 4px; border: 1px solid #1565C0; font-size: 0.85em; margin-right: 5px;">Evaluation</span>
     <span style="background-color: #FFF3E0; color: #E65100; padding: 2px 8px; border-radius: 4px; border: 1px solid #E65100; font-size: 0.85em;">Agent</span><br>
     <span style="color: #8B0000;"><em>Dartmouth College</em></span><br>
-    <em>Chiyu Ma, Enpei Zhang, Yilun Zhao, Wenjun Liu, Yaning Jia, Peijun Qing, <strong>Lin Shi</strong>, et al.</em><br>
+    <em>Chiyu Ma, Enpei Zhang, Yilun Zhao, Wenjun Liu, Yaning Jia, Peijun Qing, <strong>Lin Shi</strong>, Arman Cohan, Yujun Yan, Soroush Vosoughi</em><br>
     <strong style="color: #00008B;">EMNLP 2025</strong> | <a href="https://aclanthology.org/2025.findings-emnlp.941/">ACL Anthology</a><br>
     <p style="margin-top: 10px; color: #555; margin-bottom: 0;">Multi-Agent-Debate exacerbates biases; LLM-as-meta-judges resist them.</p>
   </div>
@@ -125,7 +125,7 @@ Below are some of my works tagged by theme.
     <span style="background-color: #E8F5E9; color: #2E7D32; padding: 2px 8px; border-radius: 4px; border: 1px solid #2E7D32; font-size: 0.85em;">AI Education</span><br>
     <span style="color: #8B0000;"><em>Dartmouth College</em></span><br>
     <em>Senior Thesis, supervised by Professor Soroush Vosoughi</em><br>
-    <strong style="color: #00008B;">November 2023 – August 2025</strong><br>
+    <strong style="color: #00008B;">Deployed at Dartmouth</strong><br>
     <p style="margin-top: 10px; color: #555; margin-bottom: 0;">AI-powered adaptive learning platform deployed for Dartmouth CS1 courses to personalize practice problems, learning progress, and feedback loop. Try it <a href="https://cs1-helper.dartmouth.edu/">here</a> (only available to Dartmouth students with password)!</p>
   </div>
 </div>
@@ -166,7 +166,7 @@ Below are some of my works tagged by theme.
     <strong>Built Environment, Car Ownership and PM2.5: Stronger Causal Estimates from a Quasi-Experiment</strong><br>
     <span style="background-color: #EFEBE9; color: #4E342E; padding: 2px 8px; border-radius: 4px; border: 1px solid #4E342E; font-size: 0.85em;">Transportation</span><br>
     <span style="color: #8B0000;"><em>Harvard University</em></span><br>
-    <em><strong>Lin Shi*</strong>, Yiliang Jiang*, Faan Chen*, et al.</em><br>
+    <em><strong>Lin Shi*</strong>, Yiliang Jiang*, Faan Chen*, Kaiyi Zhu, Chris P Nielsen, Yuejiao Wang, Fang Tian, Jiaorong Wu, Xiaohong Chen</em><br>
     <strong style="color: #00008B;">Journal of Transport Geography</strong> | <a href="https://doi.org/10.1016/j.jtrangeo.2025.104301">DOI</a><br>
     <p style="margin-top: 10px; color: #555; margin-bottom: 0;">Applied Structural Equation Modeling (SEM) to estimate the causal impact of built environment on resident travel behavior, providing valuable insights for urban planning and transportation research.</p>
   </div>
@@ -180,7 +180,7 @@ Below are some of my works tagged by theme.
     <strong>Measuring Road Safety Achievement Based on EWM-GRA-SVD: A Decision-Making Support System for APEC Countries</strong><br>
     <span style="background-color: #EFEBE9; color: #4E342E; padding: 2px 8px; border-radius: 4px; border: 1px solid #4E342E; font-size: 0.85em;">Transportation</span><br>
     <span style="color: #8B0000;"><em>Harvard University</em></span><br>
-    <em>Faan Chen*, <strong>Lin Shi*</strong>, et al.</em><br>
+    <em>Faan Chen*, <strong>Lin Shi*</strong>, Yaxin Li, Qilin Wang, Haosen Sun, Xinyu Tang, Jiacheng Zu, Zhenwei Sun</em><br>
     <strong style="color: #00008B;">Knowledge-Based Systems</strong> | <a href="https://doi.org/10.1016/j.knosys.2022.109373">DOI</a><br>
     <p style="margin-top: 10px; color: #555; margin-bottom: 0;">Proposed multi-criteria decision making (MCDM) frameworks for transportation and environmental policy analysis, providing road-safety policymaking support for APEC countries.</p>
   </div>
